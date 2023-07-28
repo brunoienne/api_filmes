@@ -1,0 +1,412 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+            "genre_ids": [
+                35,
+                12,
+                14
+            ],
+            "id": 346698,
+            "original_language": "en",
+            "original_title": "Barbie",
+            "overview": "No mundo mágico das Barbies, \"Barbieland\", uma das bonecas começa a perceber que não se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza está no interior de cada um.",
+            "popularity": 7742.606,
+            "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+            "release_date": "2023-07-19",
+            "title": "Barbie",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 945
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 298618,
+            "original_language": "en",
+            "original_title": "The Flash",
+            "overview": "Quando Barry usa seus superpoderes para viajar no tempo e mudar os eventos do passado. Mas quando tenta salvar sua família e acaba, sem querer, alterando o futuro, Barry fica preso em uma realidade na qual o General Zod está de volta, ameaçando colocar o mundo em risco, e não há super-heróis a quem recorrer.",
+            "popularity": 7529.184,
+            "poster_path": "/itYONYDHpJqTuu8BCXAtHxgpglq.jpg",
+            "release_date": "2023-06-13",
+            "title": "The Flash",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 1505
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 667538,
+            "original_language": "en",
+            "original_title": "Transformers: Rise of the Beasts",
+            "overview": "Transformers: O Despertar das Feras traz mais uma aventura épica pelo universo dos transformers. Ambientada nos anos 1990, o filme apresentará os Maximals, Predacons e Terrorcons à batalha existente na Terra entre Autobots e Decepticons.",
+            "popularity": 7029.684,
+            "poster_path": "/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
+            "release_date": "2023-06-06",
+            "title": "Transformers: O Despertar das Feras",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 1841
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/5YZbUmjbMa3ClvSW1Wj3D6XGolb.jpg",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 447365,
+            "original_language": "en",
+            "original_title": "Guardians of the Galaxy Vol. 3",
+            "overview": "Peter Quill, que ainda está a recuperar da perda de Gamora, tem que reunir a sua equipa para defender o universo e proteger um dos seus. Uma missão que, se não for concluída com sucesso, pode levar ao fim dos Guardiões como os conhecemos.",
+            "popularity": 3061.977,
+            "poster_path": "/4yycSPnchdNAZirGkmCYQwTd3cr.jpg",
+            "release_date": "2023-05-03",
+            "title": "Guardiões da Galáxia: Vol. 3",
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 3414
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/J0XkW5toJLGEucm1pLDvTHXaKC.jpg",
+            "genre_ids": [
+                28,
+                18,
+                10752
+            ],
+            "id": 1076487,
+            "original_language": "en",
+            "original_title": "Warhorse One",
+            "overview": "Durante uma missão de resgate para evacuar um grupo de missionários, durante a retirada militar dos EUA em 2021 do Afeganistão, um helicóptero da equipe SEAL é abatido por um grupo de insurgentes. Um dos operadores da equipe SEAL, Master Chief Richard Mirko, é jogado dos destroços, sobrevivendo milagrosamente ao acidente. Com o resto de sua equipe morta em ação, Mirko continua sua busca pelos missionários, mas encontra seu veículo emboscado e o único sobrevivente: uma criança traumatizada de 5 anos. Mirko deve agora guiar a criança com segurança, através do confronto com insurgentes, e sobrevivendo ao brutal deserto afegão.",
+            "popularity": 2439.262,
+            "poster_path": "/laFhAOqkWFi4sFeGPg8uun2Julw.jpg",
+            "release_date": "2023-06-30",
+            "title": "Warhorse One",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53
+            ],
+            "id": 385687,
+            "original_language": "en",
+            "original_title": "Fast X",
+            "overview": "O fim da estrada está chegando. Velozes & Furiosos 10, é o décimo filme da franquia Velozes & Furiosos, lança os capítulos finais de uma grande saga, uma das mais famosas e populares do cinema, agora com sua terceira década e ainda mais forte. Com o mesmo elenco e personagens principais de quando começou. Ao longo de muitas missões e lutando contra todos os obstáculos impossíveis, Dom Toretto (Vin Diesel) e sua família foram mais espertos, mais furiosos e mais rápidos do que todos os inimigos em seu caminho. Agora, eles enfrentam o seu oponente mais letal: uma ameaça terrível das sombras do passado, alimentada por sede de vingança e determinada a destruir esta família.",
+            "popularity": 2338.946,
+            "poster_path": "/wDWAA5QApz5L5BKfFaaj8HJCAQM.jpg",
+            "release_date": "2023-05-17",
+            "title": "Velozes & Furiosos 10",
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 2901
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/14GEZCzCGhV7FMFaWi4Ec22Kcai.jpg",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14
+            ],
+            "id": 459003,
+            "original_language": "uk",
+            "original_title": "Мавка: Лісова пісня",
+            "overview": "Mavka — uma Alma da Floresta e seu Guardião — enfrenta uma escolha impossível entre o amor e seu dever como guardiã do Coração da Floresta, quando se apaixona por um humano — o talentoso jovem músico Lukas.",
+            "popularity": 2254.838,
+            "poster_path": "/eu4IAgFNxaUFayCJTt1PssKuDzO.jpg",
+            "release_date": "2023-03-02",
+            "title": "Mavka: A Canção da Floresta",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 101
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f7UI3dYpr7ZUHGo0iIr1Qvy1VPe.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                35
+            ],
+            "id": 1040148,
+            "original_language": "en",
+            "original_title": "Ruby Gillman, Teenage Kraken",
+            "overview": "Uma adolescente tímida descobre que faz parte de uma lendária linhagem real dos míticos krakens do mar e que seu destino, nas profundezas dos oceanos, é maior do que ela jamais sonhou.",
+            "popularity": 1983.362,
+            "poster_path": "/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg",
+            "release_date": "2023-06-28",
+            "title": "Ruby Marinho - Monstro Adolescente",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 207
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cSYLX73WskxCgvpN3MtRkYUSj1T.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14,
+                10749
+            ],
+            "id": 976573,
+            "original_language": "en",
+            "original_title": "Elemental",
+            "overview": "Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum.",
+            "popularity": 1393.248,
+            "poster_path": "/88OGFOcFI04CL4uucb6I7ZzUqD6.jpg",
+            "release_date": "2023-06-14",
+            "title": "Elementos",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 596
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oqP1qEZccq5AD9TVTIaO6IGUj7o.jpg",
+            "genre_ids": [
+                14,
+                28,
+                12
+            ],
+            "id": 455476,
+            "original_language": "en",
+            "original_title": "Knights of the Zodiac",
+            "overview": "Quando um órfão de rua teimoso em busca de sua irmã sequestrada involuntariamente toca em poderes ocultos, ele descobre que pode ser a única pessoa viva que pode proteger uma deusa reencarnada, enviada para vigiar a humanidade. Ele só se tornará um Cavaleiro do Zodíaco quando puder deixar sua irmã ir e abraçar seu destino.",
+            "popularity": 1648.783,
+            "poster_path": "/1qos0X6EIi4KT9RmJiVGZB9Kw6l.jpg",
+            "release_date": "2023-04-27",
+            "title": "Os Cavaleiros do Zodíaco - Saint Seiya: O Começo",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 598
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 872585,
+            "original_language": "en",
+            "original_title": "Oppenheimer",
+            "overview": "A história do físico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial, e o quanto isso mudaria a história do mundo para sempre.",
+            "popularity": 1607.943,
+            "poster_path": "/ptpr0kGAckfQkJeJIt8st5dglvd.jpg",
+            "release_date": "2023-07-19",
+            "title": "Oppenheimer",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 558
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7I6VUdPj6tQECNHdviJkUHD2u89.jpg",
+            "genre_ids": [
+                28,
+                53,
+                80
+            ],
+            "id": 603692,
+            "original_language": "en",
+            "original_title": "John Wick: Chapter 4",
+            "overview": "Com o preço por sua cabeça cada vez maior, John Wick leva sua luta contra a alta mesa global enquanto procura os jogadores mais poderosos do submundo, de Nova York a Paris, de Osaka a Berlim.",
+            "popularity": 1288.125,
+            "poster_path": "/rXTqhpkpj6E0YilQ49PK1SSqLhm.jpg",
+            "release_date": "2023-03-22",
+            "title": "John Wick 4: Baba Yaga",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 3870
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uyi0Ytkkw4pgT4GkYZHdqravjT5.jpg",
+            "genre_ids": [
+                28,
+                18
+            ],
+            "id": 678512,
+            "original_language": "en",
+            "original_title": "Sound of Freedom",
+            "overview": "A história de Tim Ballard, um ex-agente do governo dos EUA, que largou seu emprego para dedicar sua vida a resgatar crianças de traficantes sexuais globais.",
+            "popularity": 1518.487,
+            "poster_path": "/1laG6ntAYpTOxx2H5Gh0Ku0HZON.jpg",
+            "release_date": "2023-07-03",
+            "title": "Sound of Freedom",
+            "video": false,
+            "vote_average": 8,
+            "vote_count": 183
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fCw8CVgII6W7ALbIh0SgXax3Hsj.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14,
+                10749
+            ],
+            "id": 447277,
+            "original_language": "en",
+            "original_title": "The Little Mermaid",
+            "overview": "Ariel é uma curiosa sereia que deseja experimentar a vida em terra firme e, contra a vontade de seu pai, visita a superfície. Ariel se vê em uma inesperada jornada de autodescoberta ao encontrar um príncipe, uma bruxa do mar e um novo mundo incrível.",
+            "popularity": 1484.456,
+            "poster_path": "/2oVEdOpE6CYJmF1hNnIfMwuBHPx.jpg",
+            "release_date": "2023-05-18",
+            "title": "A Pequena Sereia",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 931
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                12,
+                14,
+                35
+            ],
+            "id": 502356,
+            "original_language": "en",
+            "original_title": "The Super Mario Bros. Movie",
+            "overview": "Os irmãos Mario e Luigi, de ascendência italiana, vivem em Brooklyn (Nova Iorque), onde trabalham como canalizadores. Certo dia, durante um serviço de reparação de uma conduta de água, são sugados por um tubo e transportados para o Reino Cogumelo, um universo paralelo governado pela Princesa Peach. Sem saber do paradeiro do irmão, Mario vai ter de aprender a sobreviver naquele lugar, adquirindo capacidades bizarras mas que serão grandes mais-valias para destruir os planos de Bowser, um verdadeiro vilão que tenciona dominar o mundo.",
+            "popularity": 1340.75,
+            "poster_path": "/ktU3MIeZtuEVRlMftgp0HMX2WR7.jpg",
+            "release_date": "2023-04-05",
+            "title": "Super Mario Bros.: O Filme",
+            "video": false,
+            "vote_average": 7.8,
+            "vote_count": 5811
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tmDdFWtXwq7alX2dPG3LPPNNVs2.jpg",
+            "genre_ids": [
+                53,
+                18,
+                878,
+                27
+            ],
+            "id": 805320,
+            "original_language": "es",
+            "original_title": "Bird Box Barcelona",
+            "overview": "Depois que uma força misteriosa dizima a população do mundo, Sebastian precisa enfrentar uma jornada de sobrevivência pelas ruas desoladas de Barcelona. Mas, ao se aliar a outros sobreviventes em busca de um lugar seguro, eles descobrem uma ameaça ainda mais sinistra que não para de crescer.",
+            "popularity": 1300.813,
+            "poster_path": "/iTGBHdL12QEpLyRVlykDuiYxzAG.jpg",
+            "release_date": "2023-07-14",
+            "title": "Bird Box Barcelona",
+            "video": false,
+            "vote_average": 6.1,
+            "vote_count": 273
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/msBuBppEFq3QvaRsJYz0r595gC5.jpg",
+            "genre_ids": [
+                12
+            ],
+            "id": 1059638,
+            "original_language": "pl",
+            "original_title": "Pan Samochodzik i templariusze",
+            "overview": "Um historiador de arte encontra uma cruz templária e precisa se unir a um grupo nada convencional de aventureiros para conseguir desvendar os segredos dessa relíquia.",
+            "popularity": 1280.916,
+            "poster_path": "/qWuCK5h5o7pQDILZgQYHSIc59TX.jpg",
+            "release_date": "2023-07-12",
+            "title": "Sr. Carrinho e os Cavaleiros Templários",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 32
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4HodYYKEIsGOdinkGi2Ucz6X9i0.jpg",
+            "genre_ids": [
+                28,
+                12,
+                16,
+                878
+            ],
+            "id": 569094,
+            "original_language": "en",
+            "original_title": "Spider-Man: Across the Spider-Verse",
+            "overview": "Miles Morales retorna para o próximo capítulo da saga do Aranhaverso, uma aventura épica que transportará o Homem-Aranha em tempo integral e amigável do bairro do Brooklyn através do Multiverso para unir forças com Gwen Stacy e uma nova equipe de Homens-Aranha para enfrentar com um vilão mais poderoso do que qualquer coisa que eles já encontraram.",
+            "popularity": 1239.773,
+            "poster_path": "/xxPXsL8V95dTwL5vHWIIQALkJQS.jpg",
+            "release_date": "2023-05-31",
+            "title": "Homem-Aranha: Através do Aranhaverso",
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 2438
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/PwI3EfasE9fVuXsmMu9ffJh0Re.jpg",
+            "genre_ids": [
+                27,
+                9648,
+                53
+            ],
+            "id": 406563,
+            "original_language": "en",
+            "original_title": "Insidious: The Last Key",
+            "overview": "A Doutora Elise Rainier é chamada para resolver o caso de uma assombração no Novo México, localizada justamente na casa em que ela passou a infância. Enquanto tenta resolver o caso do morador de sua antiga casa, ela será obrigada a confrontar vários fantasmas e demônios de sua infância, alguns literais. Ao lado de Specs e Tucker, Elise se depara com seu caso mais pessoal.",
+            "popularity": 900.611,
+            "poster_path": "/v3RYZGwImjBUF18RV57J5QuOa31.jpg",
+            "release_date": "2018-01-03",
+            "title": "Sobrenatural: A Última Chave",
+            "video": false,
+            "vote_average": 6.3,
+            "vote_count": 2563
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zcySy6dnSmyqiichtDgO7AEeZoq.jpg",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 254128,
+            "original_language": "en",
+            "original_title": "San Andreas",
+            "overview": "Um forte terremoto atinge a Califórnia e faz com que Ray, um bombeiro especializado em resgates com helicópteros, tenha que percorrer o estado ao lado da ex-esposa para resgatar a sua filha Blake.",
+            "popularity": 859.24,
+            "poster_path": "/wVp2zu88NMWpGluqW9eGQbwLWi.jpg",
+            "release_date": "2015-05-27",
+            "title": "Terremoto: A Falha de San Andreas",
+            "video": false,
+            "vote_average": 6.2,
+            "vote_count": 7857
+        }
+    ],
+    "total_pages": 39247,
+    "total_results": 784939
+}

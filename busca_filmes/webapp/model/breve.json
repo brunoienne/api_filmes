@@ -1,0 +1,417 @@
+{
+    "dates": {
+        "maximum": "2023-08-17",
+        "minimum": "2023-07-25"
+    },
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+            "genre_ids": [
+                35,
+                12,
+                14
+            ],
+            "id": 346698,
+            "original_language": "en",
+            "original_title": "Barbie",
+            "overview": "No mundo mágico das Barbies, \"Barbieland\", uma das bonecas começa a perceber que não se encaixa como as outras. Depois de ser expulsa, ela parte para uma aventura no \"mundo real\", onde descobre que a beleza está no interior de cada um.",
+            "popularity": 6058.224,
+            "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+            "release_date": "2023-07-19",
+            "title": "Barbie",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 1087
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 667538,
+            "original_language": "en",
+            "original_title": "Transformers: Rise of the Beasts",
+            "overview": "Transformers: O Despertar das Feras traz mais uma aventura épica pelo universo dos transformers. Ambientada nos anos 1990, o filme apresentará os Maximals, Predacons e Terrorcons à batalha existente na Terra entre Autobots e Decepticons.",
+            "popularity": 5458.192,
+            "poster_path": "/zEqwfO5R2LrrLgV61xm8M9TmNTG.jpg",
+            "release_date": "2023-06-06",
+            "title": "Transformers: O Despertar das Feras",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1889
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f7UI3dYpr7ZUHGo0iIr1Qvy1VPe.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                14,
+                35
+            ],
+            "id": 1040148,
+            "original_language": "en",
+            "original_title": "Ruby Gillman, Teenage Kraken",
+            "overview": "Uma adolescente tímida descobre que faz parte de uma lendária linhagem real dos míticos krakens do mar e que seu destino, nas profundezas dos oceanos, é maior do que ela jamais sonhou.",
+            "popularity": 2776.707,
+            "poster_path": "/nNcxpjCtcawf8wQmTwnA0u1jukC.jpg",
+            "release_date": "2023-06-28",
+            "title": "Ruby Marinho - Monstro Adolescente",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 222
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/14GEZCzCGhV7FMFaWi4Ec22Kcai.jpg",
+            "genre_ids": [
+                16,
+                12,
+                10751,
+                14
+            ],
+            "id": 459003,
+            "original_language": "uk",
+            "original_title": "Мавка: Лісова пісня",
+            "overview": "Mavka — uma Alma da Floresta e seu Guardião — enfrenta uma escolha impossível entre o amor e seu dever como guardiã do Coração da Floresta, quando se apaixona por um humano — o talentoso jovem músico Lukas.",
+            "popularity": 2211.908,
+            "poster_path": "/eu4IAgFNxaUFayCJTt1PssKuDzO.jpg",
+            "release_date": "2023-03-02",
+            "title": "Mavka: A Canção da Floresta",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 114
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fm6KqXpk3M2HVveHwCrBSSBaO0V.jpg",
+            "genre_ids": [
+                18,
+                36
+            ],
+            "id": 872585,
+            "original_language": "en",
+            "original_title": "Oppenheimer",
+            "overview": "A história do físico americano J. Robert Oppenheimer, seu papel no Projeto Manhattan e no desenvolvimento da bomba atômica durante a Segunda Guerra Mundial, e o quanto isso mudaria a história do mundo para sempre.",
+            "popularity": 1449.266,
+            "poster_path": "/ptpr0kGAckfQkJeJIt8st5dglvd.jpg",
+            "release_date": "2023-07-19",
+            "title": "Oppenheimer",
+            "video": false,
+            "vote_average": 8.4,
+            "vote_count": 637
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oqP1qEZccq5AD9TVTIaO6IGUj7o.jpg",
+            "genre_ids": [
+                14,
+                28,
+                12
+            ],
+            "id": 455476,
+            "original_language": "en",
+            "original_title": "Knights of the Zodiac",
+            "overview": "Quando um órfão de rua teimoso em busca de sua irmã sequestrada involuntariamente toca em poderes ocultos, ele descobre que pode ser a única pessoa viva que pode proteger uma deusa reencarnada, enviada para vigiar a humanidade. Ele só se tornará um Cavaleiro do Zodíaco quando puder deixar sua irmã ir e abraçar seu destino.",
+            "popularity": 1336.633,
+            "poster_path": "/1qos0X6EIi4KT9RmJiVGZB9Kw6l.jpg",
+            "release_date": "2023-04-27",
+            "title": "Os Cavaleiros do Zodíaco - Saint Seiya: O Começo",
+            "video": false,
+            "vote_average": 6.6,
+            "vote_count": 605
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/cSYLX73WskxCgvpN3MtRkYUSj1T.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751,
+                14,
+                10749
+            ],
+            "id": 976573,
+            "original_language": "en",
+            "original_title": "Elemental",
+            "overview": "Em uma cidade onde moradores do fogo, da água, da terra e do ar vivem juntos, uma jovem impetuosa e um homem tranquilo estão prestes a descobrir algo elementar: o quanto realmente têm em comum.",
+            "popularity": 1106.051,
+            "poster_path": "/88OGFOcFI04CL4uucb6I7ZzUqD6.jpg",
+            "release_date": "2023-06-14",
+            "title": "Elementos",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 603
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hjyqNFHx5wIO8dqaRi0v2ix1wiR.jpg",
+            "genre_ids": [
+                28,
+                80,
+                27
+            ],
+            "id": 808396,
+            "original_language": "en",
+            "original_title": "God Is a Bullet",
+            "overview": "",
+            "popularity": 957.173,
+            "poster_path": "/5kiLS9nsSJxDdlYUyYGiSUt8Fi8.jpg",
+            "release_date": "2023-06-22",
+            "title": "God Is a Bullet",
+            "video": false,
+            "vote_average": 6,
+            "vote_count": 27
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ie2IAAPq5464uEmiMsabQExYmrD.jpg",
+            "genre_ids": [
+                16,
+                12,
+                14,
+                878
+            ],
+            "id": 667717,
+            "original_language": "zh",
+            "original_title": "深海",
+            "overview": "",
+            "popularity": 633.2,
+            "poster_path": "/yIuyHCFijTkL8oRONSgZHWbFJp9.jpg",
+            "release_date": "2023-01-22",
+            "title": "深海",
+            "video": false,
+            "vote_average": 7.6,
+            "vote_count": 24
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8FhKnPpql374qyyHAkZDld93IUw.jpg",
+            "genre_ids": [
+                9648,
+                53,
+                878
+            ],
+            "id": 536437,
+            "original_language": "en",
+            "original_title": "Hypnotic",
+            "overview": "Um detetive se envolve em um mistério envolvendo sua filha desaparecida e um programa secreto do governo enquanto investiga uma série de crimes que distorcem a realidade.",
+            "popularity": 447.574,
+            "poster_path": "/3IhGkkalwXguTlceGSl8XUJZOVI.jpg",
+            "release_date": "2023-05-11",
+            "title": "Hipnótico",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 340
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/o9bbojtrrpl0yriiTmzC3Lp3OhA.jpg",
+            "genre_ids": [
+                28,
+                10752
+            ],
+            "id": 840326,
+            "original_language": "fi",
+            "original_title": "Sisu",
+            "overview": "Nas profundezas do deserto da Lapônia, Aatami Korpi está em busca de ouro. De vez em quando, o sobrevoo de bombardeiros e os sons distantes da guerra podem ser ouvidos na noite de outono. Finalmente, o trabalho árduo é recompensado e o pó de ouro na panela se transforma em pedaços de ouro, e Aatami sai para levar seu tesouro de ouro para a cidade mais próxima. Depois que ele se depara com a patrulha nazista liderada pelo SS Obersturmführer Bruno Helldorf, começa uma perseguição de tirar o fôlego e faminta por ouro através do deserto destruído e minado da Lapônia.",
+            "popularity": 407.356,
+            "poster_path": "/z47Fl4WYfKBg1n1hfqxq05OVMdR.jpg",
+            "release_date": "2023-01-27",
+            "title": "Sisu - Uma História De Determinação",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 1057
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/osnvZffaZymubHiBkOsIFd8Y3Re.jpg",
+            "genre_ids": [
+                28,
+                27,
+                53
+            ],
+            "id": 986070,
+            "original_language": "en",
+            "original_title": "The Wrath of Becky",
+            "overview": "",
+            "popularity": 382.173,
+            "poster_path": "/3LShl6EwqptKIVq6NWOZ0FbZHEe.jpg",
+            "release_date": "2023-05-26",
+            "title": "The Wrath of Becky",
+            "video": false,
+            "vote_average": 6.8,
+            "vote_count": 100
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2iNUodSKykQ4VtvtG280ntNy7hB.jpg",
+            "genre_ids": [
+                28,
+                878,
+                27
+            ],
+            "id": 615656,
+            "original_language": "en",
+            "original_title": "Meg 2: The Trench",
+            "overview": "",
+            "popularity": 359.538,
+            "poster_path": "/8tBhAn6qVRQzf5yvEcxjgPMgTkw.jpg",
+            "release_date": "2023-08-02",
+            "title": "Megatubarão 2",
+            "video": false,
+            "vote_average": 0,
+            "vote_count": 0
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/44immBwzhDVyjn87b3x3l9mlhAD.jpg",
+            "genre_ids": [
+                27,
+                53,
+                9648
+            ],
+            "id": 934433,
+            "original_language": "en",
+            "original_title": "Scream VI",
+            "overview": "Sam, Tara, Chad e Mindy, os quatro sobreviventes do massacre realizado pelo Ghostface, decidem deixar Woodsboro para trás em busca de um novo começo em uma cidade diferente. Mas não demora muito para eles se tornarem alvo de um novo serial killer mascarado.",
+            "popularity": 288.191,
+            "poster_path": "/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg",
+            "release_date": "2023-03-08",
+            "title": "Pânico VI",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 1531
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bnRi1BB6d67fAoTSHm13ypFdf3r.jpg",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "id": 884605,
+            "original_language": "en",
+            "original_title": "No Hard Feelings",
+            "overview": "Uma jovem falida é contratada para namorar um adolescente introvertido e socialmente desajeitado, que está se preparando para a faculdade.",
+            "popularity": 265.119,
+            "poster_path": "/en47PkDX8IhtQA3i1MYslx8eH91.jpg",
+            "release_date": "2023-06-15",
+            "title": "Que Horas Eu Te Pego?",
+            "video": false,
+            "vote_average": 6.7,
+            "vote_count": 201
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/T5xXoFqyc9jNXZIbH4Sw0jwWjw.jpg",
+            "genre_ids": [
+                28,
+                80,
+                53,
+                9648
+            ],
+            "id": 605886,
+            "original_language": "en",
+            "original_title": "Misanthrope",
+            "overview": "A polícia e o FBI lançam uma desesperada caçada para identificar e capturar um assassino em massa que está aterrorizando a população. Frustrado pelo comportamento enigmático e sem precedentes do criminoso, o investigador-chefe do FBI (Ben Mendelsohn) recruta Eleanor (Shailene Woodley), uma talentosa policial que está lutando contra os demônios de seu passado, para ajudá-lo no caso. Mesmo inexperiente, Eleanor pode ser a única capaz de entender a mente desse assassino enigmático.",
+            "popularity": 243.095,
+            "poster_path": "/9HKEOLzhTvZCPI6IeyifyawJG5J.jpg",
+            "release_date": "2023-04-06",
+            "title": "Sede Assassina",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 350
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qElNES0sHVQcbzvGrTx7ccpGzij.jpg",
+            "genre_ids": [
+                878,
+                28,
+                18
+            ],
+            "id": 842675,
+            "original_language": "zh",
+            "original_title": "流浪地球2",
+            "overview": "Os humanos construíram enormes motores na superfície da terra para encontrar um novo lar. Mas a estrada para o universo é perigosa. Para salvar a Terra, os jovens mais uma vez precisam dar um passo à frente para iniciar uma corrida contra o tempo pela vida ou pela morte.",
+            "popularity": 228.394,
+            "poster_path": "/hEA7bpWw5IRKOW2MVjvx46SWevU.jpg",
+            "release_date": "2023-01-22",
+            "title": "Terra à Deriva 2",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 291
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                28,
+                14,
+                10749
+            ],
+            "id": 496450,
+            "original_language": "fr",
+            "original_title": "Miraculous - le film",
+            "overview": "Marinette Dupain-Cheng, de dezesseis anos, está temendo o primeiro dia de aula, onde ela sofre bullying, não tem amigos e não se encaixa, mas seu mundo vira de cabeça para baixo quando ela é escolhida para se tornar a super-heroína Ladybug e ela conhece seu parceiro Cat Noir.",
+            "popularity": 223.175,
+            "poster_path": "/cCFs6tLQJSL4fTVZUg1ALUXoVIZ.jpg",
+            "release_date": "2023-07-05",
+            "title": "Miraculous: As Aventuras de Ladybug - O Filme",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 31
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jAmmb9RApuRckDJtYWeOgBUgQyG.jpg",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                878
+            ],
+            "id": 893712,
+            "original_language": "ja",
+            "original_title": "劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ",
+            "overview": "Mais de um mês se passou desde que 10.000 usuários ficaram presos dentro do mundo \"Sword Art Online\". Asuna, que finalizou o primeiro andar do castelo de ferro flutuante de Aincrad, juntou-se a Kirito e continuou sua jornada para chegar ao último andar. Com o apoio da corretora de informações Argo, concluir os andares parecia estar progredindo sem problemas, mas o conflito irrompe entre duas grandes guildas que deveriam estar trabalhando juntas - os principais grupos de jogadores do Esquadrão de Libertação de Aincrad e a Brigada dos Cavaleiros do Dragão. E enquanto isso, nos bastidores existe uma figura misteriosa puxando os cordelinhos…",
+            "popularity": 207.38,
+            "poster_path": "/1L904CSzPCEEpPcUoBWH4cjuGJW.jpg",
+            "release_date": "2022-10-22",
+            "title": "Sword Art Online Progressive: Scherzo do Crepúsculo Sombrio",
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 106
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/Als2QyqbLgT5G3rwTGJta8QQfqP.jpg",
+            "genre_ids": [
+                35,
+                14,
+                27
+            ],
+            "id": 616747,
+            "original_language": "en",
+            "original_title": "Haunted Mansion",
+            "overview": "Uma mãe solteira chamada Gabbie contrata um guia turístico, um médium, um padre e um historiador para ajudar a exorcizar sua mansão recém-comprada; depois de descobrir que é habitado por fantasmas.",
+            "popularity": 180.918,
+            "poster_path": "/povudgG3Bi9uMa2VBBcF8I8xPwE.jpg",
+            "release_date": "2023-07-26",
+            "title": "Mansão Mal-Assombrada",
+            "video": false,
+            "vote_average": 9.2,
+            "vote_count": 3
+        }
+    ],
+    "total_pages": 27,
+    "total_results": 521
+}
