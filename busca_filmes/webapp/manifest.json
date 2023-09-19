@@ -58,15 +58,15 @@
           "bundleName": "buscafilmes.buscafilmes.i18n.i18n"
         }
       },
-      "Populares": {
+      "Populares1": {
         "type": "sap.ui.model.json.JSONModel",
         "uri": "model/populares.json"
       },
-      "Avaliados": {
+      "Avaliados1": {
         "type": "sap.ui.model.json.JSONModel",
         "uri": "model/avaliados.json"
       },
-      "Breve": {
+      "Breve1": {
         "type": "sap.ui.model.json.JSONModel",
         "uri": "model/breve.json"
       }
