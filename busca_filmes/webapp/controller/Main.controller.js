@@ -28,7 +28,7 @@ sap.ui.define([
                     method: "GET",
                     url: "https://api.themoviedb.org/3/tv/popular?language=pt-BR",
                     headers: {
-                        'Authorization': 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiNGZlNzU1OWM2ZDVhZDU2MDk3MjFkNGVlMzBhZTRhMyIsInN1YiI6IjY0YmZkYTA4NmQ0Yzk3MDBlMjc2M2QyZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.R55_Ur73YO3RKtAA3oMTzFDNiWele1_gNayczv5Oqio'
+                        'Authorization': 'Bearer eyJhbGciOiJIUzI1NiJ9'
                     },
                     success: function (dados) {
                         dadosModel.setData(dados);
@@ -47,7 +47,7 @@ sap.ui.define([
                     method: "GET",
                     url: "https://api.themoviedb.org/3/movie/top_rated?language=pt-BR",
                     headers: {
-                        'Authorization': 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiNGZlNzU1OWM2ZDVhZDU2MDk3MjFkNGVlMzBhZTRhMyIsInN1YiI6IjY0YmZkYTA4NmQ0Yzk3MDBlMjc2M2QyZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.R55_Ur73YO3RKtAA3oMTzFDNiWele1_gNayczv5Oqio'
+                        'Authorization': 'Bearer eyJhbGciOiJIUzI1NiJ9'
                     },
                     success: function (dados) {
                         dadosModel.setData(dados);
@@ -65,7 +65,7 @@ sap.ui.define([
                     method: "GET",
                     url: "https://api.themoviedb.org/3/movie/upcoming?language=pt-BR",
                     headers: {
-                        'Authorization': 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiNGZlNzU1OWM2ZDVhZDU2MDk3MjFkNGVlMzBhZTRhMyIsInN1YiI6IjY0YmZkYTA4NmQ0Yzk3MDBlMjc2M2QyZSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.R55_Ur73YO3RKtAA3oMTzFDNiWele1_gNayczv5Oqio'
+                        'Authorization': 'Bearer eyJhbGciOiJIUzI1NiJ9.'
                     },
                     success: function (dados) {
                         dadosModel.setData(dados);
